@@ -5,6 +5,8 @@ Auth
 
 login
 /login
+
+register
 /register
 
 ,,,
